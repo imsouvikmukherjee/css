@@ -1,0 +1,17 @@
+1) Font
+
+	a. font web safe
+	b. font-style (normal/italic/oblique)
+	c. Font Weight (normal/lighter/bold/600)
+	d. font size 
+	e. google font
+2. Icons  (font awesome / bootstrap) 
+3. Links (a:link / a:hover / a:visited / a:activate)
+4. List
+
+	a. list-style-type (circle / square / upper-roman / lower-alpha / none)
+	b. list-style-image: url()
+	c.  list-style-position (outside/inside)
+5. table (       th:nth-child(even)  {background-color:red;}    )
+6. display (inline / block / inline-block/ none)
+7. 
